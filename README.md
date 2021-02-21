@@ -46,7 +46,7 @@ vec.len()
 
 Normalize
 ```js
-norm()
+vec.norm()
 ```
 
 # License #
