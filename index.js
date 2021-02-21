@@ -35,4 +35,12 @@ Vector.prototype.div = function (n, j) {
     }
 }
 
+Vector.prototype.len = function () {
+    return Math.sqrt(this.x ** 2 + this.y ** 2); 
+}
+
+Vector.prototype.norm = function () {
+    return this.div(this.len);
+}
+
 module.exports = Vector;

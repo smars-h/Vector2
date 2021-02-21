@@ -39,5 +39,15 @@ Divade
 vec.div(x, y)
 ```
 
+Lenght
+```js
+vec.len()
+```
+
+Normalize
+```js
+norm()
+```
+
 # License #
 MIT 
