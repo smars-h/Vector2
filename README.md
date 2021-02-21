@@ -1,15 +1,15 @@
-# vector2.js # 
-vector2.js is vector calculator
+# vector2 # 
+vector2 is vector calculator
 
 # Usage / Installation #
-You can install vector2.js using npm 
+You can install vector2 using npm 
 ```
-npm i vector2.js 
+npm i @smarsh1/vector2
 ```
 
 # Example #
 ```js
-const Vector = require('vector2.js');
+const Vector = require('@smarsh1/vector2');
 
 let vec = new Vector(2, 3);
 
