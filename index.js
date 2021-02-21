@@ -34,3 +34,5 @@ Vector.prototype.div = function (n, j) {
         return new Vector(this.y / n, this.y / j); 
     }
 }
+
+module.exports = Vector;

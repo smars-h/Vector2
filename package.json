@@ -1,0 +1,22 @@
+{
+  "name": "@smarsh1/vector2",
+  "version": "1.0.0",
+  "description": "Vector2 calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smars-h/vector2.git"
+  },
+  "keywords": [
+    "vector"
+  ],
+  "author": "smarsh1",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/smars-h/vector2/issues"
+  },
+  "homepage": "https://github.com/smars-h/vector2#readme"
+}
