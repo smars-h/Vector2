@@ -18,25 +18,39 @@ console.log(vec.add(5, 6));
 // expected output: 7, 9 
 ```
 
-# All Methods #
+# Documentation #
+
+Constructor
+```js
+const Vector = new Vector2(x, y) 
+```
+
 Add
 ```js
 add(x, y);
+// 
+add(otherVector);
 ```
 
 Subtract
 ```js
 sub(x, y);
+//
+sub(otherVector);
 ```
 
 Multiplcate
 ```js
-multi(x, y)
+multi(x, y);
+//
+multi(otherVector);
 ```
 
 Divade
 ```js
 div(x, y)
+//
+div(otherVector)
 ```
 
 Lenght
