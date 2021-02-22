@@ -1,6 +1,6 @@
 {
   "name": "@smarsh1/vector2",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Vector2 calculator",
   "main": "index.js",
   "scripts": {
