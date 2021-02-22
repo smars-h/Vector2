@@ -40,7 +40,7 @@ Vector.prototype.len = function () {
 }
 
 Vector.prototype.norm = function () {
-    return div(len);
+    return this.div(this.len());
 }
 
 module.exports = Vector;

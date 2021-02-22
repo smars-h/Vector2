@@ -21,32 +21,32 @@ console.log(vec.add(5, 6));
 # All Methods #
 Add
 ```js
-vec.add(x, y);
+add(x, y);
 ```
 
 Subtract
 ```js
-vec.sub(x, y);
+sub(x, y);
 ```
 
 Multiplcate
 ```js
-vec.mult(x, y)
+multi(x, y)
 ```
 
 Divade
 ```js
-vec.div(x, y)
+div(x, y)
 ```
 
 Lenght
 ```js
-vec.len()
+len()
 ```
 
 Normalize
 ```js
-vec.norm()
+norm()
 ```
 
 # License #
